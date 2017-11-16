@@ -79,6 +79,7 @@ public class Producer {
 		user.setAge(17);
 		user.setPassword("123456");
 
+		
 		//╤сап
 		String queue = "hello";
 		Send(queue,user);
