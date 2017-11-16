@@ -78,13 +78,10 @@ public class Producer {
 		user.setName("»Ó∫Ω");
 		user.setAge(17);
 		user.setPassword("123456");
-
 		
 		//∂”¡–
 		String queue = "hello";
-		Send(queue,user);
-		
-		
+		Send(queue,user);	
 	}
 
 
